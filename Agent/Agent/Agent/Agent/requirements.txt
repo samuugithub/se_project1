@@ -1,7 +1,0 @@
-pytest
-pytest-mock
-mysql-connector-python
-twilio
-plyer
-requests
-flake8
